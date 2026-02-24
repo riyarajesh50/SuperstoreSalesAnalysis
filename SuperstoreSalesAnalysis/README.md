@@ -27,8 +27,6 @@ This project analyzes retail sales performance using the Superstore dataset.
 ### Seasonal Patterns
 - Sales peak during Nov–Dec holiday season
 
-## Dashboard Preview
-![Overview](images/dashboard_overview.png)
-
 ## Business Value
+
 Insights support pricing optimization, inventory planning, and regional strategy.
